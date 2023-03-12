@@ -10,4 +10,4 @@
 <br>
 <br>
 <p>Exemplo:<p>
-<img src="https://github.com/Robx33/Projeto-Conversor-de-Moedas/blob/master/assets/2023-01-05...png?raw=true">
+<img width="250px" src="https://github.com/Robx33/Projeto-Conversor-de-Moedas/blob/master/assets/2023-01-05...png?raw=true">
