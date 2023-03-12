@@ -1,7 +1,7 @@
 <h1>Convert Money</h1>
 <br>
 <br>
-<h2>Este foi o meu primeiro projeto utilizando alguns conceitos do <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo" /> que aprendi no  <a href="https://rodolfomori.com.br/devclub"> DevClub<a/>. Um conversor de moedas do real para o dólar ou euro. </h2>
+<h3>Este foi o meu primeiro projeto utilizando alguns conceitos do JavaScript que aprendi no  <a href="https://rodolfomori.com.br/devclub"> DevClub<a/>. Um conversor de moedas do real para o dólar ou euro. </h3>
 <br>
 <h3>Tecnologias utilizadas</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
